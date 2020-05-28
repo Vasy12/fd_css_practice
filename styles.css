@@ -1,19 +1,2 @@
-
-.paperText {
-
-    column-count: 4;
-    column-gap: 4em;
-    column-rule: 2px solid black;
-    column-fill: balance;
-
-
-}
-
-span {
-    display: block;
-    column-span: all;
-    text-align: center;
-    font-size: 4em;
-    font-weight: bold;
-    margin: 20px 0;
-}
+@import "assets/css/reset.css";
+@import "assets/css/fonts.css";
